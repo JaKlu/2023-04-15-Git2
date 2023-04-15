@@ -12,6 +12,8 @@ public class Main {
 
         System.out.println("kolejne linie w nowym branchu");
         System.out.println("nowinki");
+
+        System.out.println("poprawki cd");
     }
 
 }
