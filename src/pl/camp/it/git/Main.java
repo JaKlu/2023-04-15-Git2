@@ -5,6 +5,8 @@ public class Main {
         System.out.println("GIT2");
         System.out.println("Cos nowego");
         System.out.println("Nowsze");
+
+        System.out.println("Od nowa");
     }
 
 }
