@@ -9,6 +9,9 @@ public class Main {
         System.out.println("Od nowa");
 
         System.out.println("Zmiany w nowej gałęzi");
+
+        System.out.println("kolejne linie w nowym branchu");
+        System.out.println("nowinki");
     }
 
 }
