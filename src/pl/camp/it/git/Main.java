@@ -16,6 +16,7 @@ public class Main {
         System.out.println("poprawki cd");
 
         System.out.println("konflikt2");
+        System.out.println("konfklikt1");
     }
 
 }
