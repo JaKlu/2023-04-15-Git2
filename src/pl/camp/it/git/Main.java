@@ -14,6 +14,7 @@ public class Main {
         System.out.println("nowinki");
 
         System.out.println("poprawki cd");
+        System.out.println("konfklikt1");
     }
 
 }
