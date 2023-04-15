@@ -7,6 +7,8 @@ public class Main {
         System.out.println("Nowsze");
 
         System.out.println("Od nowa");
+
+        System.out.println("Zmiany w nowej gałęzi");
     }
 
 }
